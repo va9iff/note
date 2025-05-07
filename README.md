@@ -5,4 +5,7 @@ second update
 
 third update from shortcut
 
+forth note 
+- https://duck.ai
+
 
